@@ -1,0 +1,5 @@
+weight: 2.0
+name: 'Valgrind test'
+message: 'Your program should not have memory leaks.'
+show_output: true
+visibility: hidden

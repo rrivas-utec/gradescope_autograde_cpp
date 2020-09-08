@@ -1,0 +1,5 @@
+weight: 2.0
+name: 'Runtime complexity test'
+message: 'Your implementation must run in linear time'
+show_output: false
+timeout: 10

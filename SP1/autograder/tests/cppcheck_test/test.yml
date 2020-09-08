@@ -1,0 +1,4 @@
+weight: 2.0
+name: 'Cppcheck test'
+message: ''
+show_output: true
