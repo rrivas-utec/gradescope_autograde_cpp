@@ -1,7 +1,7 @@
 #Gradescope Autograde packages
 
 ## Requirements
-- Ensure that your OS support bash scripts.
+- Ensure that your OS supports bash scripts.
 - Ensure that your OS has installed the zip program.
 
 ## Content
